@@ -19,6 +19,8 @@ bot : aku tinggal di Pekalongan <br>
 user : hobi kamu apa <br>
 bot : hobiku sekarang membaca buku <br>
 
+*Desclamer : Bot answer might be different word with mine but still with the same meaning <br>
+
 ## Limitation: <br>
 1. This chatbot can only answer about his name, hobby, favorite food, and greeting <br>
 2. Cannot answer the complex questions yet
